@@ -1,0 +1,10 @@
+.counter{
+    display: flex;
+}
+
+.cardContainer{
+    border: 2px solid black;
+    padding: 2rem;
+    margin: 1rem;
+    width: min-content;
+}
